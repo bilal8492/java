@@ -1,5 +1,3 @@
-import java.io.*; 
-
 // Java code to demonstrate star patterns 
 public class GeeksForGeeks 
 { 
