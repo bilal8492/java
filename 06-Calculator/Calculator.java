@@ -7,7 +7,7 @@ public class Calculator {
         System.out.println("3.Division");
         System.out.println("4.Multiplicatio");
         String choice = System.console().readLine();
-
+        //comparing string with .equal method
         if (choice.equals("1")) {
             System.out.println("please enter two number for addition");
             String FirstNumber = System.console().readLine();
