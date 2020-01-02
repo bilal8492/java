@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PrintNumberFromUser",
+            "request": "launch",
+            "mainClass": "PrintNumberFromUser",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintNumber",
+            "request": "launch",
+            "mainClass": "PrintNumber",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - OddEven",
             "request": "launch",
             "mainClass": "OddEven",

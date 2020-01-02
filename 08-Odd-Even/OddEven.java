@@ -4,8 +4,8 @@
 public class OddEven {
 
     public static void main(String[] args) {
-        boolean doNotExit = true;
-        while (doNotExit) {
+        boolean PrintYES= true;
+        while (PrintYES) {
             System.out.println("enter number to find odd even values");
             double Number1 = Integer.parseInt(System.console().readLine());
             if (Number1 % 2 == 0) {
@@ -13,11 +13,12 @@ public class OddEven {
             } else {
                 System.out.println("The Number Is Odd");
             }
-            System.out.println("Type Yes to Exit");
-            String userInput = System.console().readLine();
 
-            if (userInput.equals("Yes")) {
-                doNotExit = false;
+            System.out.println("Type yes to exit");
+            String Check=System.console().readLine();
+            if(Check.equals("yes"))
+            {
+               PrintYES=false;
             }
         }
     }

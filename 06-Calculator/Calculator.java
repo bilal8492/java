@@ -10,10 +10,10 @@ public class Calculator {
         //comparing string with .equal method
         if (choice.equals("1")) {
             System.out.println("please enter two number for addition");
-            String FirstNumber = System.console().readLine();
-            String SecondNumber = System.console().readLine();
+            int FirstNumber = Integer.parseInt( System.console().readLine());
+            int SecondNumber = Integer.parseInt(System.console().readLine());
 
-            int sum = Integer.parseInt(FirstNumber) + Integer.parseInt(SecondNumber);
+            int sum = FirstNumber + SecondNumber;
             System.out.println(" the addition of " + FirstNumber + " and " + SecondNumber + " is " + sum);
 
         } else if (choice.equals("2")) {
