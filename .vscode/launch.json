@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AreaOfTheCircle",
+            "request": "launch",
+            "mainClass": "AreaOfTheCircle",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PrintNumberFromUser",
             "request": "launch",
             "mainClass": "PrintNumberFromUser",
