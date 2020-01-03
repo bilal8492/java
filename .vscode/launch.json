@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReversePyramid",
+            "request": "launch",
+            "mainClass": "ReversePyramid",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberPyramid",
+            "request": "launch",
+            "mainClass": "NumberPyramid",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ReverseStar",
             "request": "launch",
             "mainClass": "ReverseStar",
