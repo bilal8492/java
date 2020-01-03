@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Star",
+            "request": "launch",
+            "mainClass": "Star",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circumference",
+            "request": "launch",
+            "mainClass": "Circumference",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AreaOfTheCircle",
             "request": "launch",
             "mainClass": "AreaOfTheCircle",
