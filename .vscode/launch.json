@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NamesUsingArrays",
+            "request": "launch",
+            "mainClass": "NamesUsingArrays",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FullPyramid",
             "request": "launch",
             "mainClass": "FullPyramid",
