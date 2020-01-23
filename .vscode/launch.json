@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Fibonacchi",
+            "request": "launch",
+            "mainClass": "Fibonacchi",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Array",
             "request": "launch",
             "mainClass": "Array",
