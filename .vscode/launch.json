@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "java_79f66a9b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Fibonacchi",
             "request": "launch",
             "mainClass": "Fibonacchi",
