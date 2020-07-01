@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - star",
+            "request": "launch",
+            "mainClass": "star",
+            "projectName": "java_85e774c4"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PrimeNumber",
             "request": "launch",
             "mainClass": "PrimeNumber",
