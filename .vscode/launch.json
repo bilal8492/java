@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java_85e774c4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Equalnumber",
+            "request": "launch",
+            "mainClass": "Equalnumber",
+            "projectName": "java_85e774c4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultipleOf3And5",
+            "request": "launch",
+            "mainClass": "MultipleOf3And5",
+            "projectName": "java_85e774c4"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - star",
             "request": "launch",
             "mainClass": "star",

@@ -1,5 +1,10 @@
-public class Equalnumber
-{
+/**
+ * Equalnumber
+ */
+public class Equalnumber {
+
+    
+
     public static void main(String[] args)
     {
         System.out.println("Enter Two Number");
